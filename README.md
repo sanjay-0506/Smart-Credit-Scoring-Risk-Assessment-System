@@ -65,9 +65,6 @@ Upload CSV → Predict → Download results
 🚀 How to Run the App Locally
 Clone the repository
 
-
-git clone https://github.com/sanjay-0506/Smart-Credit-Scoring-Risk-Assessment-System.git
-cd credit-default-app
 Install dependencies
 pip install -r requirements.txt
 Run the Streamlit app
