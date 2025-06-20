@@ -96,7 +96,12 @@ The app automatically drops SeriousDlqin2yrs (if present)
 📬 Contact
 For questions or collaboration, feel free to reach out at:
 
+
 GitHub: sanjay-0506
 
 Email: m.sanjaykanth5@gmail.com
+
+
+![Screenshot 2025-06-20 182512](https://github.com/user-attachments/assets/bc6a145c-90c8-4a22-9e45-9ceeff3bb50c)
+![Screenshot 2025-06-20 182454](https://github.com/user-attachments/assets/9a4c1a43-4cad-4dfa-b3e8-ec9cb31c749a)
 
